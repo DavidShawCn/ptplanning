@@ -1,0 +1,6 @@
+site_name: 朋图规划助手-官方文档
+nav:
+  - 主页: index.md
+  - 用户手册: manual.md
+  - 关于: about.md
+theme: readthedocs
